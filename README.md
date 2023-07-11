@@ -4,7 +4,7 @@
 - Data provided by https://www.kaggle.com/datasets/iamsouravbanerjee/data-science-salaries-2023
 - Written in the DataSpell IDE using Jupyter Notebook
 - All graphs made using Plotly
-- Pandas DaraFrame
+- Pandas DataFrame
 
 ## Conclusion From Analysis
 While analyzing and visualizing this dataset we were able to gain insight into the following questions:
